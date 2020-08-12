@@ -5,14 +5,14 @@
 
 @font-face {
   font-family: alteHaasGrotesk;
-  src: url('../fonts/AlteHaasGroteskRegular.ttf');
+  src: url('../../stacysschool.github.io/fonts/AlteHaasGroteskRegular.ttf');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: alteHaasGroteskBold;
-  src: url('../fonts/AlteHaasGroteskBold.ttf');
+  src: url('../../stacysschool.github.io/fonts/AlteHaasGroteskBold.ttf');
   font-weight: normal;
   font-style: normal;
 }
